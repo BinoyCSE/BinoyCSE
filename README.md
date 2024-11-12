@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/binoydas186" target="blank"><img src="https://img.shields.io/twitter/follow/binoydas186?logo=twitter&style=for-the-badge" alt="binoydas186" /></a> </p>
 
-- 🔭 I’m currently working on **m**
+- 🔭 I’m currently working on **aritificial intelligence**
 
 - 🌱 I’m currently learning **Deep Learning Specialization course from Coursera**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Natural Language Processing (NLP), Python**
 
-- 📫 How to reach me **binoygupta2227@gmail.com**
+- 📫 Wanna contact? Email me here **binoygupta2227@gmail.com**
 
 - ⚡ Fun fact **Solving Rubik's cube became one of ardent desires during covid 😁**
 
